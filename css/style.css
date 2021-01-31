@@ -47,6 +47,10 @@ p{
 }
 .banner .banner_body h2{
 	font-weight: 400;
+	font-size: 1.5rem;
+}
+.subtitle {
+	font-size: 1.5rem;
 }
 
 .banner .banner_body p{
