@@ -304,6 +304,23 @@ cite{
     background: linear-gradient(to right, #EF2B57, #DB132C);
 }
 
+.img1 {
+    width: 80px;
+    height: 80px;
+}
+.img2 {
+	border-radius: 100px;
+    width: 80px;
+    height: 80px;
+}
+.img3 {
+	border-radius: 100px;
+    width: 80px;
+    height: 80px;
+}
+
+
+
 /* rekyou end */
 /* footer_body start */
 .footer_body{
